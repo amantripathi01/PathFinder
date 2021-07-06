@@ -1,0 +1,22 @@
+.grid-container {
+  margin: 2% auto;
+}
+
+.grid {
+  white-space: pre;
+}
+button {
+  margin: 2px 2px 4px;
+}
+
+.position {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+.pos {
+  margin-left: 65%; /* class for nav bar pathfinder visualizer code*/
+  float: right;
+}
+.img {
+  margin-left: 10px;
+}

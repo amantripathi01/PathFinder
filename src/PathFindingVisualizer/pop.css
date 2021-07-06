@@ -1,0 +1,47 @@
+.pos {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 4px;
+}
+.start {
+  width: 22px;
+  height: 22px;
+}
+.finish {
+  margin-top: 3px;
+  width: 25px;
+  height: 25px;
+}
+.wall {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+.visited {
+  width: 24px;
+  height: 25px;
+  vertical-align: middle;
+}
+.change {
+  margin-left: 45%;
+  margin-right: 75%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+/* setting the text-align property to center*/
+
+th {
+  padding: 5px;
+  text-align: center;
+}
+/* .check {
+  text-align: center;
+} */
+.size {
+  width: 600px;
+  margin: auto;
+}
