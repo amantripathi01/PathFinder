@@ -1,9 +1,14 @@
-# PathFinding Visualizer
-Demo: https://prakharsharma41.github.io/PathFinding-Visualizer/
+# PathFinder
+Demo: https://prakharsharma41.github.io/PathFinder/
 
 This project consist of shortest path finding algorithms i.e BFS, DFS, Dikstra’s, A*algorithm.
 This app is built on react.
 
 Info button shows the information on what each color box represent i.e white box is start node, red box is finish node, green box is shortest path node.
-![one](https://user-images.githubusercontent.com/56185838/105490844-68c0ef80-5cdb-11eb-9270-b02fca2c4092.png)
-![two](https://user-images.githubusercontent.com/56185838/105490864-724a5780-5cdb-11eb-807d-040af337472f.png)
+This project consist of shortest path finding algorithms i.e BFS, DFS, Dikstra’s , A* algorithm.
+This app is built on react. 
+Info button shows the information on what each color box represent: white represent start node and red represent dark node.
+Additionality functionality like user can change start and finish node are also implemented.
+
+![s2](https://user-images.githubusercontent.com/56185838/124667416-00527d00-decd-11eb-8469-6b896190f3a4.jpg)
+![s1](https://user-images.githubusercontent.com/56185838/124667387-f4ff5180-decc-11eb-8249-cbdaffc56da3.jpg)
