@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PathFinder/static/css/main.bc98850c.chunk.css",
+    "main.js": "/PathFinder/static/js/main.3ac6197f.chunk.js",
+    "main.js.map": "/PathFinder/static/js/main.3ac6197f.chunk.js.map",
+    "runtime-main.js": "/PathFinder/static/js/runtime-main.ac4c0a5e.js",
+    "runtime-main.js.map": "/PathFinder/static/js/runtime-main.ac4c0a5e.js.map",
+    "static/css/2.e5750c50.chunk.css": "/PathFinder/static/css/2.e5750c50.chunk.css",
+    "static/js/2.5b964fb2.chunk.js": "/PathFinder/static/js/2.5b964fb2.chunk.js",
+    "static/js/2.5b964fb2.chunk.js.map": "/PathFinder/static/js/2.5b964fb2.chunk.js.map",
+    "static/js/3.3de9a712.chunk.js": "/PathFinder/static/js/3.3de9a712.chunk.js",
+    "static/js/3.3de9a712.chunk.js.map": "/PathFinder/static/js/3.3de9a712.chunk.js.map",
+    "index.html": "/PathFinder/index.html",
+    "static/css/2.e5750c50.chunk.css.map": "/PathFinder/static/css/2.e5750c50.chunk.css.map",
+    "static/css/main.bc98850c.chunk.css.map": "/PathFinder/static/css/main.bc98850c.chunk.css.map",
+    "static/js/2.5b964fb2.chunk.js.LICENSE.txt": "/PathFinder/static/js/2.5b964fb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4c0a5e.js",
+    "static/css/2.e5750c50.chunk.css",
+    "static/js/2.5b964fb2.chunk.js",
+    "static/css/main.bc98850c.chunk.css",
+    "static/js/main.3ac6197f.chunk.js"
+  ]
+}
